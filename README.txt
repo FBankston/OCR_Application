@@ -1,9 +1,8 @@
-Hello Dr. Zhao,
-Thank you for reviewing my project
+Hello and thank you for reviewing my project
 
 I have included many comments with instructions in my actual python code file
 However, I am including some more instructions here
-Please note that when converting a whole folder of images at the same time, the application may sometimes say "Not Responding"
+Please note that when converting a whole folder of images at the same time, if on a weaker machine, the application may sometimes say "Not Responding"
 THE PROGRAM HAS NOT CRASHED! It is simply processing the whole folder of images
 
 Before attempting to run my python code, you must follow these instructions:
@@ -28,11 +27,5 @@ Along with my python code/research paper/powerpoint, I have included some exampl
 This is a link to the competition page that I obtained this scanned receipts dataset from: ICDAR 2019 Robust Reading Challenge on Scanned Receipts OCR and Information Extraction https://rrc.cvc.uab.es/?ch=13&com=downloads
 You must make an account to download the full dataset, however of course I am including the portion of input data I used from this dataset along with results under the "dataset_with_results" folder. There are 359 images of receipts in this dataset
 
-The other folder named "smaller_dataset" does not have a results text file inside and is a good candidate for testing my code for yourself on a smaller folder of scanned receipts. My OCR application will overall work the best on scanned good quality images such as these. Although the pre-processing methods that I have implemented do well to reduce noise in images which have some amount of noise or images that are not scanned well too
+The other folder named "smaller_dataset" does not have a results text file inside and is a good candidate for testing my code for yourself on a smaller folder of scanned receipts. My OCR application will overall work the best on scanned good quality images such as these. Although the pre-processing methods that I have implemented do well to reduce noise in images which have some amount of noise or images that are not scanned well too.
 
-Thank you very much for reviewing my project and instructing this course. If you have any questions or issues please do not hesitate to reach out to me at any of my contact information found below.
-
-Thanks so much
-- James Forrest Bankston
-jbankston@troy.edu
-334-235-3958
