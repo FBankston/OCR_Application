@@ -6,8 +6,6 @@ import pytesseract
 import numpy as np
 import os
 
-# Please Read "Dr. Zhao Instructions" Text File before running code, Thanks!
-
 # Follow these steps to get tesseract working in python
 # 1. Install (64 bit) resp. tesseract using installer available at: https://github.com/UB-Mannheim/tesseract/wiki
 # 2. Note the tesseract path from the installation. If installing for all users, the default path is below
